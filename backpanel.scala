@@ -1,4 +1,4 @@
-class backpanel
+class hitman2
 {
  def drawpane(p : PaintEvent)
  {
